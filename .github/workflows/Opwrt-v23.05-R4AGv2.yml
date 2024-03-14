@@ -23,7 +23,7 @@ env:
   REPO_URL: https://github.com/openwrt/openwrt.git
   REPO_BRANCH: v23.05.0
   FEEDS_CONF: opwrt-23.05/Opwrt-23.05_feeds.conf.default
-  CONFIG_FILE: opwrt-23.05/Opwrt-R4AGv22.config
+  CONFIG_FILE: opwrt-23.05/Opwrt-R4AGv23.config
   DIY_P1_SH: opwrt-23.05/Opwrt-p1_feeds.sh
   DIY_P2_SH: opwrt-23.05/Opwrt-p2_config.sh
   DIY_P3_SH: opwrt-23.05/Opwrt-p3_mv.sh
