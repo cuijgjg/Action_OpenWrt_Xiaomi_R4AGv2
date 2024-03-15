@@ -9,8 +9,7 @@
 #src-git telephony https://git.openwrt.org/feed/telephony.git
 
 # Openwrt 23.05 feeds (replace the commit numbers)
-src-git-full packages https://git.openwrt.org/feed/packages.git^66774c3b3080a0df5551ea8a9da557be5b62a007
 #src-git-full luci https://git.openwrt.org/project/luci.git^bdcd3e068b2a31d1ca9b7c15bcaa27ac9af4c9cc
-src-git-full luci https://git.openwrt.org/project/luci.git^96ec0cd3ccfe954f13fd5a337efdd70374dde03f
-src-git-full routing https://git.openwrt.org/feed/routing.git^83ef3784a9092cfd0a900cc28e2ed4e13671d667
-src-git-full telephony https://git.openwrt.org/feed/telephony.git^9746ae8f964e18f04b64fbe1956366954ff223f8
+#src-git-full luci https://git.openwrt.org/project/luci.git^96ec0cd3ccfe954f13fd5a337efdd70374dde03f
+#src-git-full routing https://git.openwrt.org/feed/routing.git^83ef3784a9092cfd0a900cc28e2ed4e13671d667
+#src-git-full telephony https://git.openwrt.org/feed/telephony.git^9746ae8f964e18f04b64fbe1956366954ff223f8
